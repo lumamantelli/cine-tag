@@ -2,9 +2,9 @@
     "videos":[
         {
             "id": 1,
-            "titulo": "O labirinto do Logcat",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-            "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+            "titulo": "A HISTÓRIA DO REI DAVI (Rodrigo Silva) | PrimoCast 276",
+            "capa": "https://img.youtube.com/vi/5WMmnLo-xTo/maxresdefault.jpg",
+            "link": "https://www.youtube.com/embed/5WMmnLo-xTo"
         },
         {
             "id": 2,
