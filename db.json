@@ -8,21 +8,21 @@
         },
         {
             "id": 2,
-            "titulo": "Um componente no espaço",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-            "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+            "titulo": "12 REGRAS PARA A VIDA ft.Guilherme Freire | Primo Cast",
+            "capa": "https://img.youtube.com/vi/QgfC6Vr5_No/maxresdefault.jpg",
+            "link": "https://www.youtube.com/embed/QgfC6Vr5_No"
         },
         {
             "id": 3,
-            "titulo": "O poderoso JavaScript",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
-            "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+            "titulo": "COMO SAIR DAS DÍVIDAS | Os Sócios Podcast #31",
+            "capa": "https://img.youtube.com/vi/V1juuOvuxWo/maxresdefault.jpg",
+            "link": "https://www.youtube.com/embed/V1juuOvuxWo"
         },
         {
             "id": 4,
-            "titulo": "Dart, o Caçador de Andróides",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
-            "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
+            "titulo": "CLUBE DO LIVRO: ESPECIALISTA EM PESSOAS | JOEL JOTA E TIAGO BRUNET #04",
+            "capa": "https://img.youtube.com/vi/6QDr3wU3AaU/sddefault.jpg",
+            "link": "https://www.youtube.com/embed/6QDr3wU3AaU"
         }
     ]
 }
